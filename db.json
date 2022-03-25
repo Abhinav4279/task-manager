@@ -7,13 +7,13 @@
       "reminder": false
     },
     {
-      "text": "kh",
+      "text": "Assignment",
       "day": "",
       "reminder": true,
       "id": 2
     },
     {
-      "text": "asdf",
+      "text": "Dev Tools",
       "day": "",
       "reminder": false,
       "id": 3
